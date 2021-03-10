@@ -1,8 +1,7 @@
 # lukey10129-alt.github.io
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<p>this is work in progress .</p>
 </body>
 </html>
