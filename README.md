@@ -4,7 +4,8 @@
   <h1>
     <marquee>Hellooooooooo</marquee>
   </h1>
-  <marquee direction="left"> byeeeeeeeeee</marquee>
+  <marquee direction="right"> byeeeeeeeeee</marquee>
 <h1>Hello World</h1>
+  <h2>Test</h2>
   </body>
 </html>
